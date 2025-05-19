@@ -71,6 +71,4 @@ This project provides a comprehensive analysis of global CO2 emissions across di
 ---
 
 ## ✍ Author
-*[Your Name]*  
-Intern at [Your Organization]  
-[LinkedIn/GitHub/Email if desired]
+*[Sagar Kanojiya]*  
